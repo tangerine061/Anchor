@@ -38,3 +38,8 @@
 ![image](https://github.com/user-attachments/assets/db103286-9941-4b88-9069-5371dc308ae4)
 
 *(해당 인물명으로 검색되는 유튜브 채널의 콘텐츠/코멘트 텍스트 데이터를 관련성, 최신순, 인기순 기준으로 선별)*
+
+
+**DB 설계**
+
+![DB](https://github.com/user-attachments/assets/50d5f0e5-b347-42af-b778-f083109750b6)
