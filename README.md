@@ -21,3 +21,11 @@
 ![실행화면예시](https://github.com/user-attachments/assets/e15c2820-da1a-45f1-bdd1-09f37a6a076b)
 
 ![최종결과물](https://github.com/user-attachments/assets/a43d97d4-e35c-4faf-bda3-f119bc3e2efe)
+
+
+**정보 제공 흐름도**
+
+![image](https://github.com/user-attachments/assets/e694a617-a0b0-44b5-ac24-dce269cbea98)
+![image](https://github.com/user-attachments/assets/db103286-9941-4b88-9069-5371dc308ae4)
+
+*(해당 인물명으로 검색되는 유튜브 채널의 콘텐츠/코멘트 텍스트 데이터를 관련성, 최신순, 인기순 기준으로 선별)*
